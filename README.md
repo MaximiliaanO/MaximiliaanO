@@ -178,6 +178,7 @@ Great book about large language models and how they work. It starts off with the
 | Clean Code in Python                                                        | Mariano Anaya                               | 🔜 Not yet started |
 | Introduction to PostgreSQL                                                  | Ryan Booz & Grant Fritchey                  | 🔜 Not yet started |
 
+---
 
 ## 🖥️ Homelab
 
@@ -234,6 +235,8 @@ Great book about large language models and how they work. It starts off with the
 | Snapraid | Flexible data redundancy |
 | MergerFS | To have one mountpoint for my files divided over multiple drives |
 
+---
+
 ## 🖥️ VPS
 
 ### 🖥️ VPS Specs
@@ -257,6 +260,8 @@ Great book about large language models and how they work. It starts off with the
 | Software | Purpose |
 |----------|---------|
 | Wireguard | VPN Tunneling and acces to my own network from the web |
+
+---
 
 
 ## 🖥️ Other Hardware
