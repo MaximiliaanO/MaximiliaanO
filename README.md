@@ -1,4 +1,11 @@
-# TECH RESUME
+# Maximiliaan Oorschot
+
+After 15 years in finance and private equity I made a deliberate transition 
+into software development in 2025. Everything on this page was built, learned, 
+or earned since then.
+
+Currently working as a freelance developer and AI automation specialist 
+based in the Netherlands, focused on fintech and data-heavy applications.
 
 ## 💻 Tech Stack
 
