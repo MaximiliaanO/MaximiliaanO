@@ -85,10 +85,6 @@ I automated manual workflows that were previously monitored in Microsoft Excel t
 
 As Python is my main programming language I want to further deepen my knowledge of it. Fluent Python is divided into five sections and goes deep into Data Structures, Functions as Objects, Classes and Protocols, Control Flow and Metaprogramming. I am currently on chapter 2 reading about lists.
 
-- **The Linux Command Line**:
-
-Almost all my computers at home run on the Linux kernel, I still have one device left running Windows that I also want to replace with a Linux based OS. Since most of the administration of these systems go through the terminal I decided to pick up this book to learn more about and teach me the most essential programs I need for daily usage and sever maintenance.
-
 ---
 
 ### Future Reading:
@@ -133,13 +129,17 @@ This book is one of the core fundaments of web developments. It teaches the most
 
 This book teaches you the most important syntax of JavaScript, the language of the web. The first part is dedicated to learn the syntax, data types, loops and conditionals. The second part teaches about how JavaScript interacts with the DOM. The last part consists of several JavaScript projects to get your feet wet.
 
-- Python Crash Course
+- Python Crash Course: Eric Matthes
 
 This is the book that sparked my interest into programming in the first place. Before starting this book I had almost zero experience in programming. Like the JavaScript Crash Course book the first part is introductory to data types, control flow etc. The second part consists of several projects. When I finished the data analysis project I decided to make my own software instead of keep following the book. I am still inclined to make the game some day.
 
-- Automate the Boring Stuff with Python
+- Automate the Boring Stuff with Python: Al Swiegart
 
 This is a fun book that contains all kinds of small projects to give you some inspiration what you can do with Python. Topics covered are regex, web scraping, organising files on your computer, working with excel sheet, pdf documents, word documents, csv files and json files. Also a fun little project was controlling your computer through sending e-mails to yourself.
+
+- The Linux Command Line: William Shotts
+
+Almost all my computers at home run on the Linux kernel and it is foundational in general computing. This book is great to in teaching you how to navigate your favourite linux-based distro from the terminal. It is extensive and gradually builds up in terms of difficulty. The last part of the book is the most fun part in my opinion this is where William Shotts teaches you shell scripting. You can create scripts to automate things on your operating systems and use shell scripting as glue to execute your favourite shell programs. As I was already familiar with programming when I picked up this book this felt very natural to me and a great way to automate things in the OS itself. One of the fun things to do was operate my desk lavalamp from the [terminal](https://github.com/MaximiliaanO/The-Linux-Command-Line-Summaries/blob/main/hue/hue).
 
 ---
 
@@ -163,7 +163,7 @@ Great book about large language models and how they work. It starts off with the
 | Automate the Boring Stuff With Python                                       | Al Sweigart                                 | ✅ Completed       |
 | Crash Course JavaScript                                                     | Nick Morgan                                 | ✅ Completed       |
 | HTML & CSS                                                                  | Jon Duckett                                 | ✅ Completed       |
-| The Linux Command Line                                                      | William Shotts                              | 📖 Reading         |
+| The Linux Command Line                                                      | William Shotts                              | ✅ Completed       |
 | Fluent Python                                                               | Luciano Ramalho                             | 📖 Reading         |
 | The Rust Programming Language                                               | Steve Klabnik, Carol Nichols, Chris Krycho  | ⏸️ Paused          |
 | Collect, Combine and Transform Data Using Power Query in Power BI and Excel | Daniil Maslyuk & Gil Raviv                  | ⏸️ Paused          |
