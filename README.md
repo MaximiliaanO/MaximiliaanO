@@ -46,7 +46,7 @@ Scala is a business application I have built for a client that is active in supp
 When I started working with [CoCreate](https://www.cocreateai.nl/) I was asked to refactor a large portion of the ANON application. I refactored a quickly generated \<div> soup to structured and more maintainable TSX/TS code.
 
 
-- [Fuel Price Data Pipeline](https://github.com/MaximiliaanO/Data-Pipeline---Fuel-Prices) - *Python*
+- [Fuel Price Data Pipeline](https://github.com/MaximiliaanO/Data-Pipeline---Fuel-Prices) - *Python, SQL*
 
 The fuel price data pipeline is a serious data project. The application collects price data from approximately 180 gas stations in the Netherlands and stores it on the PostgreSQL server that is hosted on my homelab. The data is presented on my the frontend I built for it using Streamlit [data summary](https://oorschot.tech/prijzen_samenvatting). 
 
@@ -68,14 +68,14 @@ I automated manual workflows that were previously monitored in Microsoft Excel t
 
 ## 🎓 Certifications
 
-| Certification | Issuer | Year |
-|---------------|--------|------|
-| Claude Code in Action | Anthropic | 2026 |
-| Building with the Claude API | Anthropic | 2026 |
-| SQL+ for Data Analytics | Luke Barousse | 2025 |
-| AZ-900: Azure Fundamentals | Microsoft | 2025 |
-| SQL for Data Analytics | Luke Barousse | 2025 |
-| PL-300: Microsoft Power BI Data Analyst | Microsoft | 2025 |
+| Certification                           | Issuer        | Year |
+|-----------------------------------------|---------------|------|
+| Claude Code in Action                   | Anthropic     | 2026 |
+| Building with the Claude API            | Anthropic     | 2026 |
+| SQL+ for Data Analytics                 | Luke Barousse | 2025 |
+| AZ-900: Azure Fundamentals              | Microsoft     | 2025 |
+| SQL for Data Analytics                  | Luke Barousse | 2025 |
+| PL-300: Microsoft Power BI Data Analyst | Microsoft     | 2025 |
 
 ## 📚 Books
 
@@ -165,6 +165,7 @@ Great book about large language models and how they work. It starts off with the
 | HTML & CSS                                                                  | Jon Duckett                                 | ✅ Completed       |
 | The Linux Command Line                                                      | William Shotts                              | ✅ Completed       |
 | Fluent Python                                                               | Luciano Ramalho                             | 📖 Reading         |
+| Introduction to PostgreSQL                                                  | Ryan Booz & Grant Fritchey                  | 📖 Reading         |
 | The Rust Programming Language                                               | Steve Klabnik, Carol Nichols, Chris Krycho  | ⏸️ Paused          |
 | Collect, Combine and Transform Data Using Power Query in Power BI and Excel | Daniil Maslyuk & Gil Raviv                  | ⏸️ Paused          |
 | Python for Data Analysis                                                    | Wes McKinney                                | ⏸️ Paused          |
@@ -176,7 +177,7 @@ Great book about large language models and how they work. It starts off with the
 | C# and .NET 6                                                               | Mark J. Price                               | 🔜 Not yet started |
 | SQL for Data Analysis                                                       | Cathy Tanimura                              | 🔜 Not yet started |
 | Clean Code in Python                                                        | Mariano Anaya                               | 🔜 Not yet started |
-| Introduction to PostgreSQL                                                  | Ryan Booz & Grant Fritchey                  | 🔜 Not yet started |
+
 
 ---
 
@@ -184,16 +185,16 @@ Great book about large language models and how they work. It starts off with the
 
 ### 🖥️ Homelab Hardware
 
-| Component | Model | Specs |
-|-----------|-------|-------|
-| Case | Fractal Design Define R5 | Black |
-| CPU | Intel Core i5-14600K | 14 cores |
-| RAM | Kingston Fury Beast | 64GB DDR5 |
-| SSD | Lexar NM790 M.2 PCIe 4.0 | 2TB |
-| HDD | Seagate IronWolf (x4) | 4 × 12TB = 48TB |
-| PSU | Corsair | 550W |
-| UPS | APC Back-UPS BE850G2 | 850VA |
-| OS | Proxmox | Based |
+| Component | Model                    | Specs           |
+|-----------|--------------------------|-----------------|
+| Case      | Fractal Design Define R5 | Black           |
+| CPU       | Intel Core i5-14600K     | 14 cores        |
+| RAM       | Kingston Fury Beast      | 64GB DDR5       |
+| SSD       | Lexar NM790 M.2 PCIe 4.0 | 2TB             |
+| HDD       | Seagate IronWolf (x4)    | 4 × 12TB = 48TB |
+| PSU       | Corsair                  | 550W            |
+| UPS       | APC Back-UPS BE850G2     | 850VA           |
+| OS        | Proxmox                  | Based           |
 
 
 
@@ -241,12 +242,12 @@ Great book about large language models and how they work. It starts off with the
 
 ### 🖥️ VPS Specs
 
-| Component | Specs |
-|-----------|-------|
-| CPU | 1 Core |
-| RAM | 2GB |
-| SSD | 60 GB |
-| OS  | Ubuntu Server (headless) |
+| Component | Specs                    |
+|-----------|--------------------------|
+| CPU       | 1 Core                   |
+| RAM       | 2GB                      |
+| SSD       | 60 GB                    |
+| OS        | Ubuntu Server (headless) |
 
 ### 🐳 VPS Docker Services
 
@@ -257,8 +258,8 @@ Great book about large language models and how they work. It starts off with the
 
 ### Other Services
 
-| Software | Purpose |
-|----------|---------|
+| Software  | Purpose                                                |
+|-----------|--------------------------------------------------------|
 | Wireguard | VPN Tunneling and acces to my own network from the web |
 
 ---
@@ -269,19 +270,19 @@ Great book about large language models and how they work. It starts off with the
 ### 🖥️ Gaming PC
 
 
-| Component | Model | Specs |
-|-----------|-------|-------|
-| CAS | Fractal Design | Black |
-| CPU | AMD Ryzen 7 5700X CPU | 8 cores |
-| RAM | Kingston DDR4 FURY Beast RGB | 32 GB DDR4 |
-| RAM | Ballistix | 16GB DDR4 |
-| GPU | MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS | 16GB |
-| SSD | Intel 660p | 0.5TB |
-| SSD | Samsung S-600 SSD | 2TB |
-| PSU | Corsair RME 750e | 750W |
-| CUF | Arctic Freezer 36 A-RGB Black | 2x 120mm |
-| CAF | Corsair RS120 ARGB Triple Pack  | 3x 120mm |
-| OS  | Windows 10 | Mid |
+| Component | Model                                         | Specs      |
+|-----------|-----------------------------------------------|------------|
+| CAS       | Fractal Design                                | Black      |
+| CPU       | AMD Ryzen 7 5700X CPU                         | 8 cores    |
+| RAM       | Kingston DDR4 FURY Beast RGB                  | 32 GB DDR4 |
+| RAM       | Ballistix                                     | 16GB DDR4  |
+| GPU       | MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS | 16GB       |
+| SSD       | Intel 660p                                    | 0.5TB      |
+| SSD       | Samsung S-600 SSD                             | 2TB        |
+| PSU       | Corsair RME 750e                              | 750W       |
+| CUF       | Arctic Freezer 36 A-RGB Black                 | 2x 120mm   |
+| CAF       | Corsair RS120 ARGB Triple Pack                | 3x 120mm   |
+| OS        | Windows 10                                    | Mid        |
 
 
 ---
@@ -290,19 +291,19 @@ Great book about large language models and how they work. It starts off with the
 
 Framework 13:
 
-| Component | Model | Specs |
-|-----------|-------|-------|
-| SCR | 2.8K Display 13.5" 120Hz | 2256 x 1504 |
-| BEZ | Orange bezel | Orange |
-| KYB | Framework Laptop 13 Keyboard | English - Linux |
-| CPU | Intel Core Ultra 5 125H | 14 cores |
-| RAM | Framework supplied DDR5-5600  | 32GB DDR5 |
-| SSD | Lexar NM790 M.2 PCIe 4.0 | 2TB |
-| EXP | 2x USB-C expansion card | Orange |
-| EXP | 1x USB-A expansion card | Silver |
-| EXP | 1x HDMI expansion card | Silver |
-| STK | DBrand body sticker | Black |
-| OS  | Pop!_OS | Nice |
+| Component | Model                        | Specs           |
+|-----------|------------------------------|-----------------|
+| SCR       | 2.8K Display 13.5" 120Hz     | 2256 x 1504     |
+| BEZ       | Orange bezel                 | Orange          |
+| KYB       | Framework Laptop 13 Keyboard | English - Linux |
+| CPU       | Intel Core Ultra 5 125H      | 14 cores        |
+| RAM       | Framework supplied DDR5-5600 | 32GB DDR5       |
+| SSD       | Lexar NM790 M.2 PCIe 4.0     | 2TB             |
+| EXP       | 2x USB-C expansion card      | Orange          |
+| EXP       | 1x USB-A expansion card      | Silver          |
+| EXP       | 1x HDMI expansion card       | Silver          |
+| STK       | DBrand body sticker          | Black           |
+| OS        | Pop!_OS                      | Nice            |
 
 
 ---
