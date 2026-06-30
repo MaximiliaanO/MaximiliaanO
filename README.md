@@ -37,6 +37,10 @@ Samen, is an application for families to manage their busy schedules, it gives t
 
 ISA AI accountant is a specialized application for audit professionals. It seeks to help them writing memo's, coach junior empolyees, quick search on audit standards and the applicable laws. I have worked on refactoring the frontend, as well as implementing the RAG pipeline.
 
+- [Power BI Workforce Analytics Dashboard](https://cocreateai.nl/case-study/verzuimcijfers-inzichtelijk-een-power-bi-dashboard-voor-vitaalondernemen) - *Power BI, Power Query*
+
+Designed and implemented an end-to-end Power BI reporting solution for a healthcare client. Built the ETL pipeline in Power Query to process approximately 1.5 million rows from multiple CSV exports, created DAX measures and interactive dashboards, and collaborated directly with stakeholders and the external data provider to define reporting requirements. The platform was designed for automated monthly data refreshes and future expansion with automated FTP ingestion and scheduled reporting.
+
 - SCALA - *Microsoft Copilot Studio*
 
 Scala is a business application I have built for a client that is active in supporting people with their reintegration to their workplace. Scala automated a process that would cost employees 20-30 minutes down to 5 minutes. The bot guides you through the planning of a reintegration and automatically generates a confirmation e-mail, sets calendar invites for deadlines and stores the process and deadlines into an Excel sheet.
