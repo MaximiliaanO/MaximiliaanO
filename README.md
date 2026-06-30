@@ -92,6 +92,7 @@ As Python is my main programming language I want to further deepen my knowledge 
 - **Introduction to PostgreSQL**:
 
 Unlike the SQL courses I have completed previously, which focused mainly on analytics, *Introduction to PostgreSQL* dives into the database itself. It covers topics such as installation, configuration, roles, extensions, and server settings. I enjoy learning how PostgreSQL works under the hood, and it has given me a much broader understanding of the platform beyond simply writing SQL queries.
+
 ---
 
 ### Future Reading:
@@ -207,13 +208,13 @@ Great book about large language models and how they work. It starts off with the
 
 ### 🖥️ Homelab Software
 
-| VM/Container | OS | Purpose |
-|---|---|---|
-| HOST | Proxmox | Host OS |
-| LXC | - | Jellyfin media server |
-| VM | Ubuntu Server (headless) | Dev server / projects |
-| VM | Windows 11 | Windows workloads |
-| VM | Fedora (planned) | Linux desktop experimentation |
+| VM/Container | OS                       | Purpose                       |
+|--------------|--------------------------|-------------------------------|
+| HOST         | Proxmox                  | Host OS                       |
+| LXC          | -                        | Jellyfin media server         |
+| VM           | Ubuntu Server (headless) | Dev server / projects         |
+| VM           | Windows 11               | Windows workloads             |
+| VM           | Fedora (planned)         | Linux desktop experimentation |
 
 ### 🐳 Homelab Docker Services (Ubuntu Server)
 
