@@ -89,6 +89,9 @@ I automated manual workflows that were previously monitored in Microsoft Excel t
 
 As Python is my main programming language I want to further deepen my knowledge of it. Fluent Python is divided into five sections and goes deep into Data Structures, Functions as Objects, Classes and Protocols, Control Flow and Metaprogramming. I am currently on chapter 2 reading about lists.
 
+- **Introduction to PostgreSQL**:
+
+Unlike the SQL courses I have completed previously, which focused mainly on analytics, *Introduction to PostgreSQL* dives into the database itself. It covers topics such as installation, configuration, roles, extensions, and server settings. I enjoy learning how PostgreSQL works under the hood, and it has given me a much broader understanding of the platform beyond simply writing SQL queries.
 ---
 
 ### Future Reading:
