@@ -172,8 +172,8 @@ Great book about large language models and how they work. It starts off with the
 | Crash Course JavaScript                                                     | Nick Morgan                                 | ✅ Completed       |
 | HTML & CSS                                                                  | Jon Duckett                                 | ✅ Completed       |
 | The Linux Command Line                                                      | William Shotts                              | ✅ Completed       |
+| Introduction to PostgreSQL                                                  | Ryan Booz & Grant Fritchey                  | ✅ Completed       |
 | Fluent Python                                                               | Luciano Ramalho                             | 📖 Reading         |
-| Introduction to PostgreSQL                                                  | Ryan Booz & Grant Fritchey                  | 📖 Reading         |
 | The Rust Programming Language                                               | Steve Klabnik, Carol Nichols, Chris Krycho  | ⏸️ Paused          |
 | Collect, Combine and Transform Data Using Power Query in Power BI and Excel | Daniil Maslyuk & Gil Raviv                  | ⏸️ Paused          |
 | Python for Data Analysis                                                    | Wes McKinney                                | ⏸️ Paused          |
